@@ -40,7 +40,7 @@ YouTube Summarizer is an application that utilizes Google's Gemini API to genera
 2. Enter the Youtube Vide Link in the input section and click ```GET SUMMARY```
 
 3. Demo:
-![Youtube_Summarizer gif](/images/summarizer.gif)
+![Youtube_Summarizer gif](https://github.com/theAbMan/Youtube_Summarizer/blob/main/images/summarizer.gif)
 
 ## Contributing
 
